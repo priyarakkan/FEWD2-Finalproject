@@ -737,14 +737,13 @@ table.wordBreak {
 .about p,
 .about h4{
   margin: 0.5rem 2rem;
+  text-align: center;
+
 }
 .about h4{
 font-size: 2rem;
 }
 .about li{
   padding-left: 2rem;
-}
-/*========Media query About========*/
-@media screen and (max-width: 576px) {
-
+  text-align: center;
 }
