@@ -740,8 +740,11 @@ table.wordBreak {
 }
 .about h4{
 font-size: 2rem;
-text-shadow: ;
 }
 .about li{
   padding-left: 2rem;
+}
+/*========Media query About========*/
+@media screen and (max-width: 576px) {
+
 }
